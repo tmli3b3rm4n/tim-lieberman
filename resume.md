@@ -11,7 +11,11 @@
 
 Profile
 ---------
+
+
 An ambitious software engineer with exceptional creative abilities, solid understanding of web usability, design patterns, OO, functional and, hybrid programing languages.  Continuously doing research on how to properly use and implement new technologies.  Demonstrated ability to effectively work in teams, complete deadlines and, overcome challenges associated with any project.
+
+
 Education
 ---------
 
