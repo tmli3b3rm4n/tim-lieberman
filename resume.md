@@ -4,9 +4,9 @@
 
 * 1(470) 685-5465
 * tim.lieberman@icloud.com
-* [LinkedIn](www.linkedin.com/in/tim-lieberman) 
-* [HackerRank](www.hackerrank.com/gatekeeper) 
-* [Github](www.github.com/tmli3b3rm4n)
+* [LinkedIn](http://www.linkedin.com/in/tim-lieberman) 
+* [HackerRank](http://www.hackerrank.com/gatekeeper) 
+* [Github](http://www.github.com/tmli3b3rm4n)
 -----------------------------------------------
 
 Education
@@ -100,3 +100,31 @@ where the football players are engineers and their stats are contributions.
 * Neo4j (was used in the beginning)
 * Github actions
 
+### Programming Languages
+
+:   **Go (golang):** Has been my primary language for more than 5 years.  It has powered the backend of all my side projects and several professional projects since I was introduced to the language at CareerBuilder.  
+
+:   **Javascript:** I've been working in javascript off and on for last 12 years.  As of writing this I'm upto date on modern frameworks like react and am have used Node on several projects.
+
+:   **PHP:** While I no longer use daily php was my primary language until 2016 when go (golang) became my goto language.  Well versed in the Symfony framework.
+
+### Cloud
+
+: **AWS:**  Has been my goto for cloud services since i started building applications a over a decade ago.
+   - Lambda
+   - CloudWatch
+   - CloudFormation
+   - ApiGateway
+   - Cognito
+   - IAM
+   - EC2
+   - Fargate
+   - S3
+   - DynamoDb
+   - Kinesis
+   - Grafana
+   - SQS
+   - SNS
+
+
+:   Basic knowledge of **GCP**, **Azure**
