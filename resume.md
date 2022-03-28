@@ -1,7 +1,7 @@
 # Tim Lieberman
 ### SOFTWARE ENGINEER
--------------------     ----------------------------
-
+------ -------- --------
+### Contact Information
 * 1(470) 685-5465
 * tim.lieberman@icloud.com
 * [LinkedIn](http://www.linkedin.com/in/tim-lieberman) 
@@ -9,6 +9,9 @@
 * [Github](http://www.github.com/tmli3b3rm4n)
 -----------------------------------------------
 
+Profile
+---------
+An ambitious software engineer with exceptional creative abilities, solid understanding of web usability, design patterns, OO, functional and, hybrid programing languages.  Continuously doing research on how to properly use and implement new technologies.  Demonstrated ability to effectively work in teams, complete deadlines and, overcome challenges associated with any project.
 Education
 ---------
 
@@ -80,7 +83,7 @@ Worked with team to rebuild their jobs api using go.  Migrated Apis from php Sym
 Technical Experience
 --------------------
 
-## Side projects:
+### Side projects:
 **Hyd :** 
 A social geocoded proximity app designed to allow likeminded individuals to find each other based on their location.
 Built with react-native it runs on iphone.
@@ -102,7 +105,7 @@ where the football players are engineers and their stats are contributions.
 
 ### Programming Languages
 
-:   **Go (golang):** Has been my primary language for more than 5 years.  It has powered the backend of all my side projects and several professional projects since I was introduced to the language at CareerBuilder.  
+:   **Go (golang):** I was introduced to go while working at CareerBuilder and have used it in several professional projects since.  It's my primary language and the one I'm most likely to use during any random whiteboard session.
 
 :   **Javascript:** I've been working in javascript off and on for last 12 years.  As of writing this I'm upto date on modern frameworks like react and am have used Node on several projects.
 
