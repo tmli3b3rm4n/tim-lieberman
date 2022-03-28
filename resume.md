@@ -11,7 +11,11 @@
 
 Profile
 ---------
+
+
 An ambitious software engineer with exceptional creative abilities, solid understanding of web usability, design patterns, OO, functional and, hybrid programing languages.  Continuously doing research on how to properly use and implement new technologies.  Demonstrated ability to effectively work in teams, complete deadlines and, overcome challenges associated with any project.
+
+
 Education
 ---------
 
@@ -22,7 +26,8 @@ Experience
 ----------
 
 ### [Uber](http://www.uber.com) : Software Engineer 2 (contract)
- **Group:** Mono-repo and Go-admin team **|** **Manager :** Wei Kong
+ #### Team: Mono-repo and Go-admin
+ #### Manager: Wei Kong
 
 
 Worked in collaboration with team to onboard all go libraries and tools maintained by Uber to a mono repository. It's the
@@ -38,9 +43,10 @@ https://en.wikipedia.org/wiki/Monorepo.
 * BuildKite
 * Jenkins
 
-
-### [TWITCH](http://www.twitch.tv): Software Engineer (contract)
-#### Group: Video Team | Manager: 
+v
+### [Twitch](http://www.twitch.tv): Software Engineer(contract)
+#### Manager: 
+#### Team: Video
 Owned by Amazon Web Services (AWS) Twitch had a goal of bring all there services onto AWS.  Moving away from
 3rd party integrations and baremetal servers.   I created the weaver, and gatekeeper cloud watch metrics.  Migrated and Moved charts 
 to Grafana. Built tools in go and contributed to go libraries.  Did code reviews and wrote a some 
@@ -54,9 +60,11 @@ github actions for automation.
 * Jenkins
 * Grafana
 * AWS
+* Terraform
 
 ### [Yahoo!](http://www.yahoo.com): Senior Software Development Engineer
-#### Group: Search Team. | Manager: Brad Biddy
+#### Manager: Brad Biddy
+#### Team: Search
 Collaborated to modernize codebase with using containers and docker. Kept functional test updated for homepage and search.  Removed the need for saucelabs integration using selenium 
 and headless chrome.  Development of headless tools to help with functional test development. Worked on homepage and search modules.  
 General tooling.   
@@ -70,6 +78,10 @@ General tooling.
 
 
 ### [CareerBuilder](http://www.careerbuilder.com): Software Engineer 3
+#### Manager: Joseph Palmour
+#### Team: ATS/Jobs
+
+
 Worked with team to rebuild their jobs api using go.  Migrated Apis from php Symfony project to new api.  Rebuilt a lot of their applicant tracking system (lucea) written in php.  Wrote tests where tests were missing.  Collaborated to modernize codebase using containers and docker.
 * Git
 * Github
@@ -94,6 +106,7 @@ Built with react-native it runs on iphone.
 * Serverless (Lambda, dynomodb, cloudWatch, apigateway, cognito, iam, fbSignIn, googleSignin, appleSignIn)
 * Google Maps
 * Github Actions
+* Terraform
 
 **GitFan** : A fantasy work game that takes in github contributions and uses it for points.  Think fantasy football 
 where the football players are engineers and their stats are contributions.  
@@ -102,6 +115,7 @@ where the football players are engineers and their stats are contributions.
 * Serverless (Lambda, dynomodb, cloudWatch, apigateway, cognito, iam, fbSignIn, googleSignin, appleSignIn)
 * Neo4j (was used in the beginning)
 * Github actions
+* Terraform
 
 ### Programming Languages
 
